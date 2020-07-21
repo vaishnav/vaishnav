@@ -1,4 +1,13 @@
-### Hi there 👋
+# HEY😃😃
+___
+![elementary](https://github.com/vaishnav/vaishnav/blob/master/github.jpg)
+___
+Hi, I am Vaishnav, Right now I am a student, I am really passionate about technology and have knowledge of web-develpment and machine learning. I am also interested in photography.
+___
+Find me around the web 🌎
+1. Check my work on 📷 [Instagram](https://www.instagram.com/vaishnav_1024/)
+2. Find me on [LinkedIn](https://www.linkedin.com/in/vaishnav-sharma-1952681a3)
+
 
 <!--
 **vaishnav/vaishnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
