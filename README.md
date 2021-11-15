@@ -1,17 +1,20 @@
 # HEY!
 ___
-### Developer, 3D Artist and a learner
+## I am Vaishnav, A Developer, 3D Artist and a problem solver.
 ___
-- 🔭 I’m currently working on joining web-development with 3d 
-- 🌱 I’m currently learning too many things, but I'll learn them eventually
-- ⚡ Fun fact: I love making real world projects and learn new things. 
+- 🎓 I am a Computer Science Undergrad who likes making cool stuff. 
+- 🌱 I’m currently learning some very amazing things like ThreeJS, React, and Node. 
+- ⚡ I am a technology enthusiast and enjoy learning new things. 
 ___
-Find me around the web 🌎
-1. Check my portfolio [website](https://vaishnavsh.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+___
+### Contact me through [E-Mail](mailto:vaishnav291999@gmail.com)
+___
+### OR Find me on the web 🌎
+1. Check my portfolio [Website](https://vaishnavsh.com/)
 2. Find me on [LinkedIn](https://www.linkedin.com/in/vaishnav-sharma-1952681a3)
 3. My 3D work on [Artstation](https://ue837ee2a.artstation.com/)
 4. Check my work on 📷 [Instagram](https://www.instagram.com/vaishnav_1024/)
-
 <!--
 ![elementary](https://github.com/vaishnav/vaishnav/blob/master/github.jpg)
 
