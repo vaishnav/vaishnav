@@ -1,11 +1,16 @@
-# HEY😃😃
+# HEY!
 ___
+### Developer, 3D Artist and a learner
 ___
-Hi, I am Vaishnav, Right now I am a student, I am really passionate about technology and have knowledge of web-develpment and machine learning. I am also interested in photography.
+- 🔭 I’m currently working on joining web-development with 3d 
+- 🌱 I’m currently learning too many things, but I'll learn them eventually
+- ⚡ Fun fact: I love making real world projects and learn new things. 
 ___
 Find me around the web 🌎
-1. Check my work on 📷 [Instagram](https://www.instagram.com/vaishnav_1024/)
+1. Check my portfolio [website](https://vaishnavsh.com/)
 2. Find me on [LinkedIn](https://www.linkedin.com/in/vaishnav-sharma-1952681a3)
+3. My 3D work on [Artstation](https://ue837ee2a.artstation.com/)
+4. Check my work on 📷 [Instagram](https://www.instagram.com/vaishnav_1024/)
 
 <!--
 ![elementary](https://github.com/vaishnav/vaishnav/blob/master/github.jpg)
