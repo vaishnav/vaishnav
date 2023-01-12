@@ -6,7 +6,7 @@ ___
 - 🌱 I’m currently learning some very amazing things like ThreeJS, React, and Node. 
 - ⚡ I am a technology enthusiast and enjoy learning new things. 
 ___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vaishnav&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ___
 ### Contact me through [E-Mail](mailto:vaishnav291999@gmail.com)
 ___
