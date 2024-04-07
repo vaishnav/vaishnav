@@ -14,7 +14,6 @@ ___
 1. Check my portfolio [Website](https://vaishnavsh.com/)
 2. Find me on [LinkedIn](https://www.linkedin.com/in/vaishnav-sharma-1952681a3)
 3. My 3D work on [Artstation](https://ue837ee2a.artstation.com/)
-4. Check my work on 📷 [Instagram](https://www.instagram.com/vaishnav_1024/)
 <!--
 ![elementary](https://github.com/vaishnav/vaishnav/blob/master/github.jpg)
 
